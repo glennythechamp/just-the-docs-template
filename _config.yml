@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+# Site settings
+title: Jerry's blog
+email: jerry.shea@gmail.com
+description: Ramblings about low latency Java
+url: "https://jerryshea.github.io" # the base hostname & protocol for your site
+twitter_username: "melb_jezza"
+github_username:  "jerryshea"
+linkedin_username: "sheajerry"
 
-url: https://just-the-docs.github.io
+# Build settings
+markdown: kramdown
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+theme: "just-the-docs"
+
